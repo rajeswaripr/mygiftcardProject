@@ -1,0 +1,23 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "userName": "test1",
+      "email": "r@test.com",
+      "password": "test@123"
+    }
+  ],
+  "giftcards": [
+    {
+      "date": "8/25/2020",
+      "firstName": "rajeswari",
+      "lastName": "p",
+      "value": "3000",
+      "commission": 150,
+      "mobile": "87689789789",
+      "address": "pdp",
+      "status": "Delivered",
+      "id": 1
+    }
+  ]
+}
